@@ -3,15 +3,6 @@ This is a sample project to practice my HTML, CSS and Javascript knowledge. More
 
 Author
 
-  Samuel Asukwo <samuelnelsino@gmail.com>
+  Nelsino1 <samuelnelsino@gmail.com>
   
-  
-
-
-## Screenshot of first one
-  ![screenshot of main](./images/currency%20converter%20app%20screenshot%20-main.png)
-  Hosted at:  https://guileless-gumption-a821d9.netlify.app/
-
-## Screenshot of second one
-  ![screenshot of main](./images/currency%20converter%20app%20screenshot.png)
-  Hosted at: https://magnificent-crepe-dfa7c6.netlify.app/ 
+ 
